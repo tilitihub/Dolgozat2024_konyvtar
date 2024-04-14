@@ -1,0 +1,3 @@
+[submodule "konyvtar-web"]
+	path = konyvtar-web
+	url = https://github.com/tilitihub/Dolgozat2024_konyvtar.git
